@@ -18,7 +18,7 @@
     </div>
   </div>
   <div class="product-detail" v-else>
-    <img src="../assets/404.jpg" alt="Product not found" />
+    <img src="../assets/404.png" alt="Product not found" />
     <h3>Opps! That product was not found...</h3>
   </div>
 </template>
